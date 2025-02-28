@@ -4,6 +4,7 @@
   <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
 </div>
 💫 About Me:
+
 🔭 I’m currently working on training a language translation model using NLP with an English-Telugu dataset.<br>👯 I’m looking to collaborate on data analysis, NLP, and Power BI projects.<br>🤝 I’m looking for help with optimizing language models and integrating them into applications.<br>🌱 I’m currently learning advanced NLP techniques and deep learning for language translation.<br>💬 Ask me about data analysis, Power BI, and NLP-based language models.<br>⚡ Fun fact: I love uncovering hidden patterns in data that tell a story!
 
 
