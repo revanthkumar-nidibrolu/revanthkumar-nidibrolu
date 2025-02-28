@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Dancing+Script=700&size=40&pause=10&speed=15&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Revanth+Kumar;And+i+Welcome+You+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
+  <br/>
+  <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
+</div>
 # 💫 About Me:
 🔭 I’m currently working on data analysis and visualization projects.<br>👯 I’m looking to collaborate on data-driven decision-making and business intelligence.<br>🤝 I’m looking for help with advanced analytics and automation in reporting.<br>🌱 I’m currently learning machine learning for data-driven insights.<br>💬 Ask me about Power BI, SQL, and data visualization.<br>⚡ Fun fact: I enjoy turning raw data into meaningful stories!
 
