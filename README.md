@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Lucida=700&size=40&pause=10&speed=15&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Revanth+Kumar;And+i+Welcome+You+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Caveat&weight=700&size=40&pause=10&speed=15&color=F7F7F7&background=30AADD00&center=true&vCenter=true&random=false&width=1080&height=250&lines=Hello!%F0%9F%91%8B;I'm+Revanth+Kumar;And+i+Welcome+You+To+My+GitHub!%F0%9F%98%8A" alt="Typing SVG" />
   <br/>
   <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
 </div>
