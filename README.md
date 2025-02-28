@@ -3,7 +3,7 @@
   <br/>
   <img src="https://raw.githubusercontent.com/Ashutosh00710/github-readme-animator/main/assets/banner.gif" width="100%">
 </div>
-# 💫 About Me:
+💫 About Me:
 🔭 I’m currently working on data analysis and visualization projects.<br>👯 I’m looking to collaborate on data-driven decision-making and business intelligence.<br>🤝 I’m looking for help with advanced analytics and automation in reporting.<br>🌱 I’m currently learning machine learning for data-driven insights.<br>💬 Ask me about Power BI, SQL, and data visualization.<br>⚡ Fun fact: I enjoy turning raw data into meaningful stories!
 
 
